@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Cardiology",
+      "image": "https://images.pexels.com/photos/5207104/pexels-photo-5207104.jpeg",
+      "availability": "available",
+      "rating": 4.9,
+      "experience": "15 years",
+      "location": "New York Medical Center"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Michael Chen",
+      "specialty": "Neurology",
+      "image": "https://images.pexels.com/photos/5327656/pexels-photo-5327656.jpeg",
+      "availability": "busy",
+      "rating": 4.8,
+      "experience": "12 years",
+      "location": "Central Hospital"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Emily Rodriguez",
+      "specialty": "Pediatrics",
+      "image": "https://images.pexels.com/photos/3259629/pexels-photo-3259629.jpeg",
+      "availability": "available",
+      "rating": 4.9,
+      "experience": "10 years",
+      "location": "Children's Medical Center"
+    },
+    {
+      "id": 4,
+      "name": "Dr. David Thompson",
+      "specialty": "Orthopedics",
+      "image": "https://images.pexels.com/photos/6129494/pexels-photo-6129494.jpeg",
+      "availability": "offline",
+      "rating": 4.7,
+      "experience": "18 years",
+      "location": "Sports Medicine Clinic"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Lisa Park",
+      "specialty": "Dermatology",
+      "image": "https://images.pexels.com/photos/8076234/pexels-photo-8076234.jpeg",
+      "availability": "available",
+      "rating": 4.8,
+      "experience": "8 years",
+      "location": "Skin Care Institute"
+    },
+    {
+      "id": 6,
+      "name": "Dr. James Wilson",
+      "specialty": "Cardiology",
+      "image": "https://images.pexels.com/photos/8460124/pexels-photo-8460124.jpeg",
+      "availability": "busy",
+      "rating": 4.6,
+      "experience": "20 years",
+      "location": "Heart Center"
+    }
+  ]
