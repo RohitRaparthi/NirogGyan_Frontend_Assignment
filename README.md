@@ -59,7 +59,7 @@ src/
 
 ## 📸 Screenshots
 
-![UI of Doctor Appointment Booking App](DoctorAppointmentBookingApp.gif)
+![UI of Doctor Appointment Booking App](Screenshot.gif)
 
 ---
 
